@@ -1,0 +1,30 @@
+_repo: In-the-Courts-of-Memory-1858-1875-from-Contemporary-Letters_7044
+creator:
+  author:
+    agent_name: Hegermann-Lindencrone, L. de (Lillie de)
+    aliases:
+    - Greenough, Lillie
+    - Hagermann-Lindencrone, Anna Lillie Greenough, Fru
+    - Lindencrone, Lillie Moulton
+    - Moulton, Lillie Greenough
+    - Hegermann-Lindencrone, Lillie Greenough Moulton
+    birthdate: 1844
+    deathdate: 1928
+    gutenberg_agent_id: '2321'
+    url: http://www.gutenberg.org/2009/agents/2321
+    wikipedia: http://en.wikipedia.org/wiki/Lillie_de_Hegermann-Lindencrone
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'France -- Social life and customs -- 19th century'
+- !lcc 'DC'
+title: In the Courts of Memory, 1858-1875; from Contemporary Letters
+url: http://www.gutenberg.org/ebooks/7044
